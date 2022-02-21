@@ -2,10 +2,10 @@
 #ovhnull ovh ddos ovh armor ovh firewall bypassed#
 
 ---
-git clone https://github.com/RootPace/ovh-ddos-script.git
-cd ovh-ddos-script
-chmod 777 ovhnull
-./ovhnull
+- git clone https://github.com/RootPace/ovh-ddos-script.git
+- cd ovh-ddos-script
+- chmod 777 ovhnull
+- ./ovhnull
 
 ----
 
